@@ -41,15 +41,15 @@ tags: japan winter spring metropolis
 
 **II. Основной этап. Речевая деятельность учащихся на английском языке.**
 
-* 1. Путешествие в Шотландию. Составление кратких  высказываний  о географическом положении и  достопримечательностях страны с опорой на ключевые слова. 
-* 2.  Работа с новой лексикой. Введение новой лексики и первичное ее закрепление. Работа с новой  лексикой по тексту. 
-* 3. Развитие навыков чтения. Чтение с извлечением запрашиваемой информации.
-* 4. Обобщение изученного материала  в выполнении теста. 
+* 1.Путешествие в Шотландию. Составление кратких  высказываний  о географическом положении и  достопримечательностях страны с опорой на ключевые слова. 
+* 2.Работа с новой лексикой. Введение новой лексики и первичное ее закрепление. Работа с новой  лексикой по тексту. 
+* 3.Развитие навыков чтения. Чтение с извлечением запрашиваемой информации.
+* 4.Обобщение изученного материала  в выполнении теста. 
 
 **III. Заключительный этап**
 
-* 1. Подведение итогов урока. Выставление оценок. 
-* 2. Сообщение и разъяснение учащимся домашнего задания – проектной работы «Шотландия- города и люди»
+* 1.Подведение итогов урока. Выставление оценок. 
+* 2.Сообщение и разъяснение учащимся домашнего задания – проектной работы «Шотландия- города и люди»
 
 ## Ход урока
 
@@ -70,9 +70,16 @@ Teacher: Did you like the verse? Let’s try to recite it. First, pronounce some
 Teacher: Let’s recite the poem line by line with me. 
 Well done! Now one of you, try to do it again.   
 
-** Речевая зарядка. Вопросно-ответная беседа с классом во фронтальном режиме.**
-Teacher: Do you know who wrote these wonderful lines? That’s it! The famous Scottish poet Robert Burns is the author of the poem. Robert Burns is a great Scottish national poet. He wrote a lot of beautiful verses and songs about his country. We’ll speak about him today and you’ll learn a lot about his birthplace.  
-Robert Burns was the most democratic poet of the 18th century. His birthday is celebrated in Scotland as a national holiday. Burns is very popular in Russia too. His first poems were translated into Russian at the close of the 18th century. Russian people admire Robert Burns1 s poems and songs in the original and in the wonderful translations of Samuel Marshak. 
+**Речевая зарядка. Вопросно-ответная беседа с классом во фронтальном режиме.**
+Teacher: Do you know who wrote these wonderful lines? 
+That’s it! The famous Scottish poet Robert Burns is the author of the poem. 
+Robert Burns is a great Scottish national poet. He wrote a lot of beautiful verses and songs about his country. 
+
+We’ll speak about him today and you’ll learn a lot about his birthplace.  
+Robert Burns was the most democratic poet of the 18th century. His birthday is celebrated in Scotland as a national holiday. 
+Burns is very popular in Russia too. His first poems were translated into Russian at the close of the 18th century.
+
+Russian people admire Robert Burns1 s poems and songs in the original and in the wonderful translations of Samuel Marshak. 
 Now some pupils will tell you about Robert Burns's life.\  на экране-  портрет Р. Бернса , ключевые слова –факты из биографии\ .
 Robert Burns, Scotland's national poet, was born on January 25, 1759, in a small clay cottage at Alleyway, in Ayrshire, Scotland. His father, William Burns, was a poor farmer. He built this small clay cottage with his own hands: There were seven children in the family, and Robert was the eldest. His father knew the value of a good education, and he tried to give his children the best education he could afford. Robert was sent to school at the age of six, but as his father could not pay for the two sons, Robert and his brother Gilbert attended school in turn. When not at school, the boys helped their father with his work in the fields. But soon the teacher left, and so Burns's father along with his four neighbours invited a young school-teacher. John Murdoch, to teach their boys. When Murdoch left, the poet's father taught the children himself. Reading and writing, arithmetic, English grammar, history, literature, French and Latin — that was Robert Burns's education.
 **II.Основной этап. Речевая деятельность учащихся на английском языке.\  Презентация достопримечательностей  Шотландии , национальной символики. составление высказываний с опорой на ключевые слова\.**
