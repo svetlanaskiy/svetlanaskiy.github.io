@@ -65,8 +65,10 @@ Teacher: So, have you got any ideas about our today’s topic? That’s right. T
 Teacher: Did you like the verse? Let’s try to recite it. First, pronounce some difficult sounds and words with these sounds.
  
 Проводится хоровая и индивидуальная отработка звуков и слов:
+
 * [h] heart hills Highlands here
 * [] birthplace worth North
+
 Teacher: Let’s recite the poem line by line with me. 
 Well done! Now one of you, try to do it again.   
 
@@ -81,7 +83,13 @@ Burns is very popular in Russia too. His first poems were translated into Russia
 
 Russian people admire Robert Burns1 s poems and songs in the original and in the wonderful translations of Samuel Marshak. 
 Now some pupils will tell you about Robert Burns's life.\  на экране-  портрет Р. Бернса , ключевые слова –факты из биографии\ .
-Robert Burns, Scotland's national poet, was born on January 25, 1759, in a small clay cottage at Alleyway, in Ayrshire, Scotland. His father, William Burns, was a poor farmer. He built this small clay cottage with his own hands: There were seven children in the family, and Robert was the eldest. His father knew the value of a good education, and he tried to give his children the best education he could afford. Robert was sent to school at the age of six, but as his father could not pay for the two sons, Robert and his brother Gilbert attended school in turn. When not at school, the boys helped their father with his work in the fields. But soon the teacher left, and so Burns's father along with his four neighbours invited a young school-teacher. John Murdoch, to teach their boys. When Murdoch left, the poet's father taught the children himself. Reading and writing, arithmetic, English grammar, history, literature, French and Latin — that was Robert Burns's education.
+
+Robert Burns, Scotland's national poet, was born on January 25, 1759, in a small clay cottage at Alleyway, in Ayrshire, Scotland. 
+His father, William Burns, was a poor farmer. He built this small clay cottage with his own hands:
+ There were seven children in the family, and Robert was the eldest. 
+ His father knew the value of a good education, and he tried to give his children the best education he could afford. 
+ 
+ Robert was sent to school at the age of six, but as his father could not pay for the two sons, Robert and his brother Gilbert attended school in turn. When not at school, the boys helped their father with his work in the fields. But soon the teacher left, and so Burns's father along with his four neighbours invited a young school-teacher. John Murdoch, to teach their boys. When Murdoch left, the poet's father taught the children himself. Reading and writing, arithmetic, English grammar, history, literature, French and Latin — that was Robert Burns's education.
 **II.Основной этап. Речевая деятельность учащихся на английском языке.\  Презентация достопримечательностей  Шотландии , национальной символики. составление высказываний с опорой на ключевые слова\.**
 
 **2.Введение новой лексики и первичное закрепление.**
@@ -94,15 +102,16 @@ Teacher: Look at the sheets of paper, please. These words will help you understa
 
 Teacher: I won’t give you any translation of the new words at the moment., try to guess the meaning of the words and match them with the pictures.
 
-* - Задание на первоначальное  закрепление. Учитель раздает карточки с заданием. 
-* - Проверка понимания новых слов.
+* Задание на первоначальное  закрепление. Учитель раздает карточки с заданием. 
+* Проверка понимания новых слов.
 
 Teacher: So, let’s check your answers. Work in chain. Read the phrases and name the letter of the corresponding pictures. 
 
 **Look at the pictures and phrases below. Which phrase goes with which picture?
 ( Учитель раздает карточки с заданиями)**
 
-**Now complete the sentences on your cards to describe what people are doing on the screen using A—F above. **
+**Now complete the sentences on your cards to describe what people are doing on the screen using A—F above.**
+
 * 1 Some men with a rope 
 * 2 Some men in kilts 
 * 3 The man with the beard 
@@ -133,10 +142,12 @@ The Games also include entertainment and exhibits related to other aspects of Sc
 **New words:**  To hoist-поднимать, to attempt- прoбовать, to attach- прикреплять, shaft-рукоятка, to whirl- вращаться. 
 
 Teacher:  Answer my questions: 
+
 * What games are held in Scotland throughout the year ?
 * What kinds of sport are popular in Scotland during Highland Games ?
 * What  musical instruments do the Scottish people play?
 * What type of dancing is popular in Scotland?
+
 Teacher:  Thank you very much. I am pleased  with your work today. Now it is high time to check your knowledge and do some tests. \ Учащимся предлагается выполнить тест по изученной теме. На экране появляются правильные ответы. Учащиеся сравнивают свои ответы и предложенные варианты.\
 
 **SCOTLAND**
